@@ -1,4 +1,5 @@
-./fleet
+./fleet/*
+./examples/*
 
 ## log files
 *.log
