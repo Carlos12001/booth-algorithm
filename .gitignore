@@ -67,3 +67,13 @@ xvlog.*
 ## checkpoint files
 *.dcp
 booth-algorithm.ip_user_files/README.txt
+examples/boothMultiplier.sv
+examples/counter.sv
+examples/fourBitAddSub.sv
+examples/FSM.sv
+examples/LQ_Register.sv
+examples/M_Register.sv
+examples/Multiplier_Top.sv
+examples/shiftReg.sv
+examples/singleBitRegister.sv
+examples/Testbench.sv
