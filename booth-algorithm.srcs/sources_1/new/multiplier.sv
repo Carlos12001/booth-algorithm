@@ -1,11 +1,11 @@
 `timescale 1ns / 1ps
 
-
+// 6*8 => 6 multiplicando y 8 multiplicador
 module multiplier(
     output [15:0] prod,
     output busy,
-    input [7:0] mc,
-    input [7:0] mp,
+    input [7:0] mc, // multiplicando (OSEA el 6)
+    input [7:0] mp, // multiplicador (OSEA el 8)
     input clk,
     input start
     );
