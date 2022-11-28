@@ -53,9 +53,9 @@ Se realizo un testbench para probar el algoritmo
 ## Análisis de consumo de recursos en la FPGA (LUTs, FFs, etc.) y del consumo de potencia
 
 
-Segun vivado esto reporta:
+Segun vivado esto reporta el siguiente consumo de potencia:
 
-![](images/consumo.png)
+![](images/potencia.png)
 
 ## Reporte de velocidades máximas de reloj posibles en el diseño (mínima frecuencia de reloj para este
 diseño: 50 MHz).
