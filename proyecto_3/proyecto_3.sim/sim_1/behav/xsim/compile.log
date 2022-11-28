@@ -1,0 +1,27 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/BCDtoCatode.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BCDtoCatode
+WARNING: [VRFC 10-8426] non-net output port 'catodo' cannot be initialized at declaration in SystemVerilog mode [C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/BCDtoCatode.sv:15]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/Top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-311] analyzing module Reading
+INFO: [VRFC 10-311] analyzing module antirrebote
+INFO: [VRFC 10-311] analyzing module clock_enable
+INFO: [VRFC 10-311] analyzing module FF
+WARNING: [VRFC 10-8426] non-net output port 'Q' cannot be initialized at declaration in SystemVerilog mode [C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/Top.sv:173]
+INFO: [VRFC 10-311] analyzing module inicio_multiplicacion
+WARNING: [VRFC 10-8426] non-net output port 'pb_salida' cannot be initialized at declaration in SystemVerilog mode [C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/Top.sv:186]
+INFO: [VRFC 10-311] analyzing module encender_lucesLED
+INFO: [VRFC 10-311] analyzing module Multiplier
+INFO: [VRFC 10-311] analyzing module maquina_estados
+INFO: [VRFC 10-311] analyzing module mult_with_no_sm
+INFO: [VRFC 10-311] analyzing module binaryToBCD
+INFO: [VRFC 10-311] analyzing module sevenSegmentDisplay
+INFO: [VRFC 10-311] analyzing module ClockDivider
+INFO: [VRFC 10-311] analyzing module updateCounter
+WARNING: [VRFC 10-8426] non-net output port 'contador_actualizar' cannot be initialized at declaration in SystemVerilog mode [C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/Top.sv:672]
+INFO: [VRFC 10-311] analyzing module ControllerAnode
+WARNING: [VRFC 10-8426] non-net output port 'anodo' cannot be initialized at declaration in SystemVerilog mode [C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/Top.sv:690]
+INFO: [VRFC 10-311] analyzing module ControllerBCD
+WARNING: [VRFC 10-8426] non-net output port 'digito' cannot be initialized at declaration in SystemVerilog mode [C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/Top.sv:714]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ikari/OneDrive/Escritorio/Respaldo/proyecto_3/proyecto_3.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

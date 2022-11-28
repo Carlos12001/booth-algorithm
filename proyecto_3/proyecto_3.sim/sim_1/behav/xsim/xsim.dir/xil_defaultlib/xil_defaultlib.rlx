@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/ikari/OneDrive/Escritorio/Respaldo/proyecto_3/proyecto_3.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/BCDtoCatode.sv,1669641452,systemVerilog,C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/Top.sv,C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/Top.sv,,$unit_BCDtoCatode_sv_2113110186;BCDtoCatode,,uvm,,,,,,
+C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/Top.sv,1669642336,systemVerilog,,,,ClockDivider;ControllerAnode;ControllerBCD;FF;Multiplier;Reading;Top;antirrebote;binaryToBCD;clock_enable;encender_lucesLED;inicio_multiplicacion;maquina_estados;mult_with_no_sm;sevenSegmentDisplay;updateCounter,,uvm,,,,,,

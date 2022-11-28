@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../../proyecto-3-main/Booth_Multiplier/BCDtoCatode.sv" \
+"../../../../../../proyecto-3-main/Booth_Multiplier/Top.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

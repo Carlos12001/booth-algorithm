@@ -1,0 +1,31 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot Top_behav xil_defaultlib.Top xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 8 for port 'anodo' [C:/Users/ikari/OneDrive/Escritorio/proyecto-3-main/Booth_Multiplier/Top.sv:626]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package xil_defaultlib.$unit_BCDtoCatode_sv_2113110186
+Compiling module xil_defaultlib.clock_enable
+Compiling module xil_defaultlib.FF
+Compiling module xil_defaultlib.antirrebote
+Compiling module xil_defaultlib.inicio_multiplicacion
+Compiling module xil_defaultlib.encender_lucesLED
+Compiling module xil_defaultlib.Reading
+Compiling module xil_defaultlib.maquina_estados
+Compiling module xil_defaultlib.mult_with_no_sm
+Compiling module xil_defaultlib.Multiplier
+Compiling module xil_defaultlib.binaryToBCD
+Compiling module xil_defaultlib.ClockDivider
+Compiling module xil_defaultlib.updateCounter
+Compiling module xil_defaultlib.ControllerAnode
+Compiling module xil_defaultlib.ControllerBCD
+Compiling module xil_defaultlib.BCDtoCatode
+Compiling module xil_defaultlib.sevenSegmentDisplay
+Compiling module xil_defaultlib.Top
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Top_behav
