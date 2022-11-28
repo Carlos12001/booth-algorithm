@@ -67,4 +67,4 @@ Diseño: 50 MHz.
 ## Análisis de principales problemas hallados durante el trabajo y de las soluciones aplicadas.
 
 
-El mayor problema que se tuvo fue el sistemas de LEDS ya que el numero como pude tomar valores desde -32,768 hasta 32,767 no pude mostrar los todos los valores al mismo tiempo ya que solamente se cuenta con 4 displays. Por esta parte fue el mayor del proyecto 
+El mayor problema que se tuvo fue el sistemas de LEDS ya que el numero como pude tomar valores desde -32,768 hasta 32,767 no pude mostrar los todos los valores al mismo tiempo ya que solamente se cuenta con 4 displays. Por esta parte fue el mayor del proyecto. Finalmente se supo programar los displays y localizar los botones para una debida lectura, pero el algotimo falla cuando los número son muy grandes o si presentan signo negativo, probablemente debido a problemas a la hora de implementar la máquina de estados en el algoritmo.
