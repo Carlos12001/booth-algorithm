@@ -59,7 +59,7 @@ Segun vivado esto reporta el siguiente consumo de potencia:
  ![](images/recursos.png)
  
  Además de los siguientes tiempos de operación: 
- ![](images/tiempo.png)
+ ![](images/timing.png)
 
 ## Reporte de velocidades máximas de reloj posibles en el diseño (mínima frecuencia de reloj para este
 Diseño: 50 MHz.
